@@ -54,11 +54,6 @@ The dataset used is based on the famous [Titanic - Machine Learning from Disaste
 
 ---
 
-## 📈 Visualization Example
-
-![Confusion Matrix](https://github.com/yourusername/yourrepo/blob/main/confusion_matrix_example.png)  
-*(Replace the URL above with your actual image path if you upload the confusion matrix)*
-
 ---
 
 ## 📌 Conclusion
